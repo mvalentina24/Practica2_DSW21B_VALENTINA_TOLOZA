@@ -1,3 +1,5 @@
+martes 30 de septiembre
+
 fun main() {
     // Crear una lista mutable para guardar los números pares
     val numerosPares = mutableListOf<Int?>()
